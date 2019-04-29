@@ -1,0 +1,9 @@
+1. Copy the folder "Unet_Model_Scripts" into the system.
+2. Go to path - "Unet_Model_Scripts/train".
+3. Unzip the "image.zip" file. Keep the folder name as "image", DO NOT change it.
+4. Unzip the "label.zip" file. Keep the folder name as "label", DO NOT change it.
+5. Create two empty folders in the same path with names - "image_processed"  and "label_processed".
+6. Go to path - "Unet_Model_Scripts/test".
+7. Create two empty folders in the same path with names - "image_processed" and "results"
+8. Extract the "image.zip" file. Keep the folder name as "image", DO NOT change it. (This file could not be uploaded into github because of the huge size, hence sharing the drive link here
+    Please copy this file from the drive and place it in this path -  "Unet_Model_Scripts/test", drive link - https://drive.google.com/open?id=1tgi2P07MooG26f3J7ig4vzOe9eyRG1Ku ). 
