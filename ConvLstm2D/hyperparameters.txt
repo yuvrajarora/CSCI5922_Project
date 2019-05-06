@@ -1,0 +1,11 @@
+kernel filters = 40
+
+steps_per_epochs = 130
+
+epochs = 5
+
+image_size = (512,512)
+
+optimizer = adadelta
+
+loss = binary crossentropy
