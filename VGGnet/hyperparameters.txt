@@ -1,0 +1,11 @@
+steps_per_epochs = 5
+
+epochs = 1
+
+image_size = (576,576)
+
+optimizer = adam
+
+loss = binary crossentropy
+
+learning rate=1e-4
