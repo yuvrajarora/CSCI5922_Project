@@ -36,11 +36,16 @@ VGG Net shows a improvement on the classification accuracy and generalization ca
 
 #### Results:
 
+##### Original Image
+
 ![Fig.4 Original Image](https://github.com/yuvrajarora/CSCI5922_Project/blob/master/Assets/Original_Img.png)
 
 ##### Masks generated:
 
-![Fig.5 U-Net Model](https://github.com/yuvrajarora/CSCI5922_Project/blob/master/Assets/U-Net_Mask.png)
-![Fig.6 U-Net C-LSTM](https://github.com/yuvrajarora/CSCI5922_Project/blob/master/Assets/ConvLSTM_Mask.png)
-![Fig.7 VGG Net with skip](https://github.com/yuvrajarora/CSCI5922_Project/blob/master/Assets/VGG-Net_Mask.png)
+###### U-Net mask
+![](https://github.com/yuvrajarora/CSCI5922_Project/blob/master/Assets/U-Net_Mask.png)
+###### U-Net CSLTM mask
+![](https://github.com/yuvrajarora/CSCI5922_Project/blob/master/Assets/ConvLSTM_Mask.png)
+###### VGG Net mask
+![](https://github.com/yuvrajarora/CSCI5922_Project/blob/master/Assets/VGG-Net_Mask.png)
 
