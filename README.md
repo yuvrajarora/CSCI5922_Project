@@ -34,6 +34,15 @@ This network incorporates Convolution LSTM (C-LSTM) Block into the U-Net archite
 
 VGG Net shows a improvement on the classification accuracy and generalization capability on our model. Along with that using skip and Relu  allows us to improve the performance of the models and segment cells properly to view and  refine the spatial precision of the output.
 
+#### Evaluation Metrics:
+Jaccard Similarity Index: 
+[]!(https://github.com/yuvrajarora/CSCI5922_Project/blob/master/Assets/Eval_Metric.png)
+
+where, 
+                  R : Pixels belonging to reference object
+                  S : Pixels belonging to segmented object
+
+
 #### Results:
 
 ##### Original Image
@@ -49,3 +58,12 @@ VGG Net shows a improvement on the classification accuracy and generalization ca
 ###### VGG Net mask
 ![](https://github.com/yuvrajarora/CSCI5922_Project/blob/master/Assets/VGG-Net_Mask.png)
 
+##### Hyperparameters for the model 
+![](https://github.com/yuvrajarora/CSCI5922_Project/blob/master/Assets/Result_Table.png)
+
+#### References:
+
+1. Ulman, Vladimír & Maška, Martin (2017). An Objective Comparison of Cell Tracking Algorithms. Nature Methods. 14. 10.1038/nmeth.4473
+2. O. Ronneberger, P. Fischer, T. Brox, U-net: Convolutional networks for biomedical image segmentation, 2015.
+3. A fully convolutional network for weed mapping of unmanned aerial vehicle (UAV) imagery, Huasheng Huang, Jizhong Deng, Yubin Lan , Aqing Yang, Xiaoling Deng, Lei Zhang
+4. [Learning how to train U-Net model by Sukriti Paul](https://medium.com/coinmonks/learn-how-to-train-u-net-on-your-dataset-8e3f89fbd623)
