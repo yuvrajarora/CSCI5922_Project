@@ -63,7 +63,7 @@ Mostly used for sequences. In this we go two ways from 0 to N and from N to 0 an
 
 #### Evaluation Metrics:
 Jaccard Similarity Index: 
-[]!(https://github.com/yuvrajarora/CSCI5922_Project/blob/master/Assets/Eval_Metric.png)
+![](https://github.com/yuvrajarora/CSCI5922_Project/blob/master/Assets/Eval_Metric.png)
 
 where, 
                   R : Pixels belonging to reference object
