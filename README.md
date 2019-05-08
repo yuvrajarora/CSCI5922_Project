@@ -67,3 +67,5 @@ where,
 2. O. Ronneberger, P. Fischer, T. Brox, U-net: Convolutional networks for biomedical image segmentation, 2015.
 3. A fully convolutional network for weed mapping of unmanned aerial vehicle (UAV) imagery, Huasheng Huang, Jizhong Deng, Yubin Lan , Aqing Yang, Xiaoling Deng, Lei Zhang
 4. [Learning how to train U-Net model by Sukriti Paul](https://medium.com/coinmonks/learn-how-to-train-u-net-on-your-dataset-8e3f89fbd623)
+5. [U-Net by Zhixuhao](https://github.com/zhixuhao/unet)
+6. [Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting](https://papers.nips.cc/paper/5955-convolutional-lstm-network-a-machine-learning-approach-for-precipitation-nowcasting.pdf)
