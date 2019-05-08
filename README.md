@@ -13,9 +13,9 @@ The goal of our project was to build Neural Network Models to segment moving cel
 From the vast dataset available in the Cell Tracking Challenge, we chose the Fluo-N2DH-SIM+ dataset. This dataset consists of simulated nuclei of HL60 cells stained with Hoescht. The video is recorded over 29 minutes to study the cell dynamics of various cells. The benchmark for the segmentation evaluation methodology is 80.7 % for this dataset.
 
 
-###### Model Architecture:
+##### Model Architecture:
 
-###### 1. U-Net - 
+###### 1. U-Net:
 
 ![Fig.1 U-Net Model](https://github.com/yuvrajarora/CSCI5922_Project/blob/master/Unet-Model.png)
 
